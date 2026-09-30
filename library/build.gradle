@@ -20,6 +20,6 @@ android {
 }
 
 dependencies {
-    implementation 'androidx.core:core:1.1.0-alpha03'
-    testImplementation 'junit:junit:4.12'
+    implementation 'androidx.core:core:1.17.0'
+    testImplementation 'junit:junit:4.13.2'
 }
